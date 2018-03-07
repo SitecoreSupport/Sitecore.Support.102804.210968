@@ -57,7 +57,7 @@
     <Compile Include="SqlServerLinkDatabase.cs" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="App_Config\Include\zzz\Sitecore.Support.102804.125765.config" />
+    <Content Include="App_Config\Include\zzz\Sitecore.Support.102804.210968.config" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
